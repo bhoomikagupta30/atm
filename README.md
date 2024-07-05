@@ -17,6 +17,13 @@ Displays the Account number of the user.
 
 ![page3](https://github.com/bhoomikagupta30/atm/assets/174466216/ae72f2d7-7764-4493-9ff7-7c321d467904)
 
+# 4. Main Menu Page
+The main menu page for the ATM Management System project serves as a centralized hub for ATM operations, providing users with essential functionalities such as deposit, withdrawal, balance inquiry,create new password,view all transactions,fastcash and account management.
+
+![page4](https://github.com/bhoomikagupta30/atm/assets/174466216/50250e4d-8197-48d5-b321-3726ce8f3d63)
+
+
+
 
 
 
