@@ -12,3 +12,11 @@ The login page for the ATM Management System project facilitates secure access f
 
 ![page2](https://github.com/bhoomikagupta30/atm/assets/174466216/1946290a-0fd1-4334-b783-7d9451a41485)
 
+# 3. Welcome Page
+Displays the Account number of the user.
+
+![page3](https://github.com/bhoomikagupta30/atm/assets/174466216/ae72f2d7-7764-4493-9ff7-7c321d467904)
+
+
+
+
