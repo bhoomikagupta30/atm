@@ -30,12 +30,13 @@ The withdraw functionality page enables users to securely withdraw funds from th
 # 6. Deposit Page
 The deposit functionality page allows users to securely deposit funds into their accounts.
 
-![page6](https://github.com/bhoomikagupta30/atm/assets/174466216/c2b62efb-14da-4bd6-9a3f-51936a320c85)
+![deposit](https://github.com/bhoomikagupta30/atm/assets/174466216/a088840f-0a41-4de8-92d4-50e9ba0466c6)
+
 
 # 7. Balance Page
 The balance page displays the current balance of the user.
 
-![page7](https://github.com/bhoomikagupta30/atm/assets/174466216/d663ab83-ba58-432f-82ce-dfe7c762cfe9)
+![balance](https://github.com/bhoomikagupta30/atm/assets/174466216/45f173d6-5003-4d77-8d11-0c2ab73b93f5)
 
 # 8. FastCash
 The FastCash functionality page provides users with quick access to predefined withdrawal amounts.
